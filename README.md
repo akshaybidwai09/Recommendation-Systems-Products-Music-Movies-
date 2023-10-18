@@ -2,7 +2,7 @@
 This project is a Django microservice aimed at providing recommendations for similar Amazon products based on a user's product purchase. The approach used here is commonly employed in online shopping platforms like Amazon, where customers are presented with related products based on their current selections.
 
 # Dataset
-The project utilizes the Amazon Fashion Products dataset from Kaggle, which can be accessed (https://www.kaggle.com/datasets/promptcloud/amazon-fashion-products-2020). This dataset contains a vast collection of Amazon fashion products and serves as the foundation for generating product recommendations.
+The project utilizes the Amazon Fashion Products dataset from Kaggle, which can be accessed (https://www.kaggle.com/datasets/promptcloud/amazon-fashion-products-2020). This dataset contains a vast collection of Amazon fashion products and serves as the foundation for generating product recommendations (30k Records for this project).
 
 # Approach
 To provide efficient and accurate recommendations, two techniques have been employed in this project:
